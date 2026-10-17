@@ -3,9 +3,6 @@
 
 An AI-powered career guidance platform that generates personalized learning roadmaps, project recommendations, learning timelines, and downloadable PDF reports to help users achieve their dream careers.
 
-🌐 **Live Demo:** `https://khutejakhancareerpilot-ai.streamlit.app/`
-
-📂 **GitHub Repository:** `https://github.com/khutejakhan/CareerPilot-AI`
 
 ---
 
@@ -18,22 +15,6 @@ An AI-powered career guidance platform that generates personalized learning road
 * 📄 Download career plans as PDF files
 * 🎨 Modern and responsive user interface
 * 🔒 Secure API key management using environment variables
-
----
-
-## 🖼️ Screenshots
-
-### Home Page
-
-![Home](C:\Users\M M Auto\Desktop\CareerPilot-AI\assets\screenshots\page1-careerpilotai.jpg)
-
-### Generated Roadmap
-
-![Roadmap](C:\Users\M M Auto\Desktop\CareerPilot-AI\assets\screenshots\page3-careerpilotai.jpg)
-
-### Learning Timeline
-
-![Timeline](C:\Users\M M Auto\Desktop\CareerPilot-AI\assets\screenshots\page4-careerpilotai.jpg)
 
 ---
 
@@ -174,14 +155,6 @@ CareerPilot AI was built to help students and aspiring professionals transform t
 
 ---
 
-## 👨‍💻 Author
-
-**Khuteja Khan**
-
-* GitHub: `https://github.com/khutejakhan/CareerPilot-AI`
-* LinkedIn: `www.linkedin.com/in/khuteja-khan`
-
----
 
 ## ⭐ Support
 
