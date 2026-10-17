@@ -1,0 +1,623 @@
+{
+  "target_role": "Full-Stack Developer",
+  "selected_timeline_months": 3,
+  "current_skills": [
+    "AWS Cloud",
+    "JavaScript",
+    "Python",
+    "PyTorch"
+  ],
+  "modules": [
+    {
+      "id": "mod_1",
+      "name": "Full-Stack Developer Foundations",
+      "topics": [
+        "Core Syntax",
+        "Tools",
+        "Best Practices"
+      ],
+      "status": "in_progress",
+      "score": null,
+      "attempts": 0,
+      "submodules": [
+        {
+          "id": "sub_1_1",
+          "module_id": "mod_1",
+          "title": "Variables, Primitive Types & Operators",
+          "difficulty": "Beginner",
+          "order": 1,
+          "status": "in_progress",
+          "score": 45.0,
+          "attempts": 1,
+          "has_coding_challenge": true,
+          "test_scope": "4 Conceptual MCQs + 1 Python Challenge (Function: calculate_bill) \u2022 15 Mins",
+          "topics": [
+            "Variables & Types",
+            "Numbers & Strings",
+            "Operators"
+          ]
+        },
+        {
+          "id": "sub_1_2",
+          "module_id": "mod_1",
+          "title": "Control Flow, Conditionals & Loops",
+          "difficulty": "Beginner",
+          "order": 2,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 Conceptual MCQs + 1 Python Challenge (Function: sum_multiples) \u2022 15 Mins",
+          "topics": [
+            "If Else Conditions",
+            "While Loops",
+            "For Loops & Ranges"
+          ]
+        },
+        {
+          "id": "sub_1_3",
+          "module_id": "mod_1",
+          "title": "Functions, Scopes & Functional Paradigms",
+          "difficulty": "Intermediate",
+          "order": 3,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 Conceptual MCQs + 1 Python Challenge (Function: filter_even_squares) \u2022 15 Mins",
+          "topics": [
+            "Functions & Scope",
+            "Lambda",
+            "Return Values"
+          ]
+        },
+        {
+          "id": "sub_1_4",
+          "module_id": "mod_1",
+          "title": "Object-Oriented Programming & Error Handling",
+          "difficulty": "Intermediate",
+          "order": 4,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 Conceptual MCQs + 1 Python Challenge (Function: safe_average_calculator) \u2022 15 Mins",
+          "topics": [
+            "OOP & Classes",
+            "Inheritance",
+            "Try Except Blocks"
+          ]
+        }
+      ],
+      "final_exam": {
+        "module_id": "mod_1",
+        "title": "Full-Stack Developer Foundations Final Exam",
+        "status": "locked",
+        "unlocked": false,
+        "score": null,
+        "attempts": 0
+      }
+    },
+    {
+      "id": "mod_2",
+      "name": "Intermediate Architecture",
+      "topics": [
+        "Data Structures",
+        "Design Patterns",
+        "Modularization"
+      ],
+      "status": "locked",
+      "score": null,
+      "attempts": 0,
+      "submodules": [
+        {
+          "id": "sub_2_1",
+          "module_id": "mod_2",
+          "title": "Arrays, Slicing & String Algorithms",
+          "difficulty": "Intermediate",
+          "order": 1,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Python Challenge (Function: reverse_words) \u2022 15 Mins",
+          "topics": [
+            "Arrays & Strings",
+            "Data Structures"
+          ]
+        },
+        {
+          "id": "sub_2_2",
+          "module_id": "mod_2",
+          "title": "Hash Maps & Frequency Analysis",
+          "difficulty": "Intermediate",
+          "order": 2,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Python Challenge (Function: find_first_unique) \u2022 15 Mins",
+          "topics": [
+            "Hash Maps",
+            "Time Complexity"
+          ]
+        },
+        {
+          "id": "sub_2_3",
+          "module_id": "mod_2",
+          "title": "Binary Search & Recursion",
+          "difficulty": "Advanced",
+          "order": 3,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Python Challenge (Function: binary_search_target) \u2022 15 Mins",
+          "topics": [
+            "Binary Search",
+            "Recursion",
+            "Time Complexity"
+          ]
+        }
+      ],
+      "final_exam": {
+        "module_id": "mod_2",
+        "title": "Intermediate Architecture Final Exam",
+        "status": "locked",
+        "unlocked": false,
+        "score": null,
+        "attempts": 0
+      }
+    },
+    {
+      "id": "mod_3",
+      "name": "Specialized Domain Engineering",
+      "topics": [
+        "APIs",
+        "Data Pipelines",
+        "Production Practices"
+      ],
+      "status": "locked",
+      "score": null,
+      "attempts": 0,
+      "submodules": [
+        {
+          "id": "sub_mod_3_1",
+          "module_id": "mod_3",
+          "title": "Specialized Domain Engineering \u2014 Core Concepts & Syntax",
+          "difficulty": "Beginner",
+          "order": 1,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Practical Code Challenge \u2022 15 Mins",
+          "topics": [
+            "Specialized Domain Engineering Part 1",
+            "Best Practices",
+            "Implementation"
+          ]
+        },
+        {
+          "id": "sub_mod_3_2",
+          "module_id": "mod_3",
+          "title": "Specialized Domain Engineering \u2014 Practical Implementations & Patterns",
+          "difficulty": "Intermediate",
+          "order": 2,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Practical Code Challenge \u2022 15 Mins",
+          "topics": [
+            "Specialized Domain Engineering Part 2",
+            "Best Practices",
+            "Implementation"
+          ]
+        },
+        {
+          "id": "sub_mod_3_3",
+          "module_id": "mod_3",
+          "title": "Specialized Domain Engineering \u2014 Advanced Optimization & Production Architecture",
+          "difficulty": "Advanced",
+          "order": 3,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Practical Code Challenge \u2022 15 Mins",
+          "topics": [
+            "Specialized Domain Engineering Part 3",
+            "Best Practices",
+            "Implementation"
+          ]
+        }
+      ],
+      "final_exam": {
+        "module_id": "mod_3",
+        "title": "Specialized Domain Engineering Final Exam",
+        "status": "locked",
+        "unlocked": false,
+        "score": null,
+        "attempts": 0
+      }
+    },
+    {
+      "id": "mod_4",
+      "name": "Capstone & Deployment",
+      "topics": [
+        "System Integration",
+        "Testing",
+        "Cloud Delivery"
+      ],
+      "status": "locked",
+      "score": null,
+      "attempts": 0,
+      "submodules": [
+        {
+          "id": "sub_mod_4_1",
+          "module_id": "mod_4",
+          "title": "Capstone & Deployment \u2014 Core Concepts & Syntax",
+          "difficulty": "Beginner",
+          "order": 1,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Practical Code Challenge \u2022 15 Mins",
+          "topics": [
+            "Capstone & Deployment Part 1",
+            "Best Practices",
+            "Implementation"
+          ]
+        },
+        {
+          "id": "sub_mod_4_2",
+          "module_id": "mod_4",
+          "title": "Capstone & Deployment \u2014 Practical Implementations & Patterns",
+          "difficulty": "Intermediate",
+          "order": 2,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Practical Code Challenge \u2022 15 Mins",
+          "topics": [
+            "Capstone & Deployment Part 2",
+            "Best Practices",
+            "Implementation"
+          ]
+        },
+        {
+          "id": "sub_mod_4_3",
+          "module_id": "mod_4",
+          "title": "Capstone & Deployment \u2014 Advanced Optimization & Production Architecture",
+          "difficulty": "Advanced",
+          "order": 3,
+          "status": "locked",
+          "score": null,
+          "attempts": 0,
+          "has_coding_challenge": true,
+          "test_scope": "4 MCQs + 1 Practical Code Challenge \u2022 15 Mins",
+          "topics": [
+            "Capstone & Deployment Part 3",
+            "Best Practices",
+            "Implementation"
+          ]
+        }
+      ],
+      "final_exam": {
+        "module_id": "mod_4",
+        "title": "Capstone & Deployment Final Exam",
+        "status": "locked",
+        "unlocked": false,
+        "score": null,
+        "attempts": 0
+      }
+    }
+  ],
+  "assessment_history": [
+    {
+      "timestamp": "2026-10-17 10:09",
+      "type": "submodule_test",
+      "module_id": "mod_1",
+      "submodule_id": "sub_1_1",
+      "module_name": "Full-Stack Developer Foundations \u2022 Variables, Primitive Types & Operators",
+      "score": 45.0,
+      "status": "Fail",
+      "mcq_score": 75.0,
+      "coding_score": 0.0,
+      "strengths": [
+        "Variables & Types",
+        "Numbers & Strings"
+      ],
+      "weaknesses": [
+        "Operators",
+        "Operators & Types"
+      ]
+    },
+    {
+      "timestamp": "2026-10-17 07:49",
+      "type": "submodule_test",
+      "module_id": "mod_1",
+      "submodule_id": "sub_1_1",
+      "module_name": "Cloud & DevOps Architect Foundations \u2022 Variables, Primitive Types & Operators",
+      "score": 30.0,
+      "status": "Fail",
+      "mcq_score": 50.0,
+      "coding_score": 0.0,
+      "strengths": [
+        "Numbers & Strings"
+      ],
+      "weaknesses": [
+        "Variables & Types",
+        "Operators",
+        "Operators & Types"
+      ]
+    },
+    {
+      "timestamp": "2026-10-17 00:08",
+      "type": "submodule_test",
+      "module_id": "mod_1",
+      "submodule_id": "sub_1_1",
+      "module_name": "Full-Stack Developer Foundations \u2022 Variables, Primitive Types & Operators",
+      "score": 30.0,
+      "status": "Fail",
+      "mcq_score": 50.0,
+      "coding_score": 0.0,
+      "strengths": [
+        "Numbers & Strings"
+      ],
+      "weaknesses": [
+        "Variables & Types",
+        "Operators",
+        "Operators & Types"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 23:57",
+      "type": "submodule_test",
+      "module_id": "mod_1",
+      "submodule_id": "sub_1_1",
+      "module_name": "Cloud & DevOps Architect Foundations \u2022 Variables, Primitive Types & Operators",
+      "score": 0.0,
+      "status": "Fail",
+      "mcq_score": 0.0,
+      "coding_score": 0.0,
+      "strengths": [],
+      "weaknesses": [
+        "Variables & Types",
+        "Numbers & Strings",
+        "Operators",
+        "Operators & Types"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 23:48",
+      "module_id": "mod-1",
+      "module_name": "Custom Learning Module",
+      "score": 0.0,
+      "status": "Fail",
+      "mcq_score": 0.0,
+      "coding_score": 0.0,
+      "strengths": [],
+      "weaknesses": [
+        "Fundamentals",
+        "Problem Solving"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 23:16",
+      "type": "final_exam",
+      "module_id": "mod_1",
+      "module_name": "python developer Foundations \u2022 Final Exam",
+      "score": 0.0,
+      "status": "Fail",
+      "mcq_score": 0.0,
+      "coding_score": 0.0,
+      "strengths": [],
+      "weaknesses": [
+        "Variables & Types",
+        "Operators",
+        "Control Flow",
+        "Functions & Scope",
+        "OOP & Classes",
+        "Error Handling",
+        "Iterators",
+        "Algorithms & Collections",
+        "Recursion & Data Model"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 23:16",
+      "type": "submodule_test",
+      "module_id": "mod_1",
+      "submodule_id": "sub_1_1",
+      "module_name": "python developer Foundations \u2022 Variables, Primitive Types & Operators",
+      "score": 45.0,
+      "status": "Fail",
+      "mcq_score": 75.0,
+      "coding_score": 0.0,
+      "strengths": [
+        "Variables & Types",
+        "Numbers & Strings"
+      ],
+      "weaknesses": [
+        "Operators",
+        "Operators & Types"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 22:28",
+      "module_id": "mod_1",
+      "module_name": "Python Programming & Core Syntax",
+      "score": 100.0,
+      "status": "Pass",
+      "mcq_score": 100.0,
+      "coding_score": 100.0,
+      "strengths": [
+        "Variables & Types",
+        "Functions & Scope",
+        "OOP & Classes",
+        "Error Handling",
+        "Practical Implementation"
+      ],
+      "weaknesses": []
+    },
+    {
+      "timestamp": "2026-10-16 22:20",
+      "module_id": "mod_1",
+      "module_name": "Python Programming & Core Syntax",
+      "score": 85.0,
+      "status": "Pass",
+      "mcq_score": 75.0,
+      "coding_score": 100.0,
+      "strengths": [
+        "Functions & Scope",
+        "OOP & Classes",
+        "Error Handling",
+        "Practical Implementation"
+      ],
+      "weaknesses": [
+        "Variables & Types"
+      ]
+    },
+    {
+      "timestamp": "2026-10-16 12:41",
+      "module_id": "mod_1",
+      "module_name": "Python Programming & Core Syntax",
+      "score": 85.0,
+      "status": "Pass",
+      "mcq_score": 75.0,
+      "coding_score": 100.0,
+      "strengths": [
+        "Functions & Scope",
+        "OOP & Classes",
+        "Error Handling",
+        "Practical Implementation"
+      ],
+      "weaknesses": [
+        "Variables & Types"
+      ]
+    }
+  ],
+  "topic_scores": {
+    "Variables & Types": 77.7,
+    "Control Flow": 32.0,
+    "Functions & Scope": 39.2,
+    "OOP & Classes": 38.6,
+    "Error Handling": 39.0,
+    "Practical Implementation": 98.1,
+    "Numbers & Strings": 95.8,
+    "Operators": 0.3,
+    "Operators & Types": 0.7,
+    "Iterators": 28.0,
+    "Algorithms & Collections": 28.0,
+    "Recursion & Data Model": 28.0,
+    "Fundamentals": 28.0,
+    "Problem Solving": 28.0
+  },
+  "skills_mastered": [
+    "Variables & Syntax",
+    "Functions Basics",
+    "Practical Implementation",
+    "Numbers & Strings",
+    "Variables & Types"
+  ],
+  "skills_to_improve": [
+    "Object-Oriented Design",
+    "Exceptions Handling",
+    "Operators",
+    "Operators & Types",
+    "Control Flow",
+    "Functions & Scope",
+    "OOP & Classes",
+    "Error Handling",
+    "Iterators",
+    "Algorithms & Collections",
+    "Recursion & Data Model",
+    "Fundamentals",
+    "Problem Solving"
+  ],
+  "recommendations": [
+    {
+      "topic": "Fundamentals",
+      "reason": "Scored below passing threshold in 'Fundamentals' during recent module assessment.",
+      "action": "Review concepts for Fundamentals, re-read core documentation, and solve 2 diagnostic exercises.",
+      "practice_query": "How to master Fundamentals in python developer"
+    },
+    {
+      "topic": "Problem Solving",
+      "reason": "Scored below passing threshold in 'Problem Solving' during recent module assessment.",
+      "action": "Review concepts for Problem Solving, re-read core documentation, and solve 2 diagnostic exercises.",
+      "practice_query": "How to master Problem Solving in python developer"
+    }
+  ],
+  "student_name": "Alex Morgan",
+  "learning_objective": "Master production-ready AI Engineer skill stack with validated competencies",
+  "learning_streak_days": 5,
+  "total_paths_enrolled": 2,
+  "recently_accessed_subjects": [
+    {
+      "id": "mod_1",
+      "name": "Python Programming & Core Syntax",
+      "category": "Core Programming",
+      "progress_pct": 100,
+      "last_accessed": "Today, 10:45 AM",
+      "status": "Completed"
+    },
+    {
+      "id": "mod_2",
+      "name": "Data Structures & Algorithms",
+      "category": "Computer Science",
+      "progress_pct": 35,
+      "last_accessed": "Yesterday, 3:15 PM",
+      "status": "In Progress"
+    },
+    {
+      "id": "mod_3",
+      "name": "SQL & Relational Databases",
+      "category": "Data Architecture",
+      "progress_pct": 0,
+      "last_accessed": "3 days ago",
+      "status": "Queued"
+    }
+  ],
+  "progress_history": [
+    {
+      "label": "Week 1",
+      "date": "Oct 1",
+      "progress": 10,
+      "score": 75
+    },
+    {
+      "label": "Week 2",
+      "date": "Oct 5",
+      "progress": 25,
+      "score": 82
+    },
+    {
+      "label": "Week 3",
+      "date": "Oct 10",
+      "progress": 45,
+      "score": 85
+    },
+    {
+      "label": "Current",
+      "date": "Oct 16",
+      "progress": 65,
+      "score": 88
+    }
+  ],
+  "latest_roadmap": {
+    "role": "Full-Stack Developer",
+    "months": 3,
+    "skills": [
+      "AWS Cloud",
+      "JavaScript",
+      "Python",
+      "PyTorch"
+    ],
+    "markdown": "# \ud83d\ude80 3-Month Full-Stack Developer Roadmap\n\nWelcome! As your career mentor and a senior software engineer, I\u2019ve designed this high-intensity, practical roadmap to bridge your current skills (**AWS, JavaScript, Python, PyTorch**) into a market-ready **Full-Stack Developer** profile. \n\nYou already have a massive advantage: you understand backend logic (Python) and cloud infrastructure (AWS). Now, we will master modern frontend ecosystems, robust backend frameworks, and system architecture to make you unstoppable.\n\n---\n\n## \ud83d\uddd3\ufe0f Month-by-Month Learning Plan\n\n### Month 1: Frontend Mastery & API Integration\n* **Goal:** Transition from a scripter/data scientist mindset to a user-centric frontend engineer. Master React, state management, and modern CSS.\n* **Weekly Focus:**\n  * **Weeks 1\u20132:** Advanced modern JavaScript (ES6+, closures, async/await) and TypeScript fundamentals (crucial for enterprise jobs).\n  * **Weeks 3\u20134:** React.js core (Hooks, Context API, routing) and Tailwind CSS for rapid, responsive UI design.\n\n### Month 2: Backend Scaling & Database Architecture\n* **Goal:** Build bulletproof APIs and connect them to relational and non-relational databases, leveraging your existing Python and JS knowledge.\n* **Weekly Focus:**\n  * **Weeks 1\u20132:** Node.js & Express.js (JavaScript backend) alongside FastAPI or Django (Python backend\u2014leaning on your Python skills).\n  * **Weeks 3\u20134:** Databases (PostgreSQL for relational data, MongoDB for unstructured data) and ORMs (Prisma for JS, SQLAlchemy for Python). Authentication & Authorization (JWT, OAuth 2.0).\n\n### Month 3: Cloud Deployment, DevOps & AI Integration\n* **Goal:** Tie everything together by deploying scalable full-stack applications to AWS. Plus, leverage your PyTorch background to build an **AI-powered full-stack app** (a massive resume differentiator!).\n* **Weekly Focus:**\n  * **Weeks 1\u20132:** Containerization with Docker and CI/CD pipelines (GitHub Actions).\n  * **Weeks 3\u20134:** Advanced AWS deployment (ECS, S3, RDS, Lambda) and final portfolio polish.\n\n---\n\n## \ud83d\udcbb Technologies\n\n* **Frontend:** React.js, TypeScript, Tailwind CSS, Next.js (for SSR/SSG).\n* **Backend:** Node.js, Express.js, FastAPI (Python), REST APIs, WebSockets.\n* **Databases & ORMs:** PostgreSQL, MongoDB, Redis, Prisma, SQLAlchemy.\n* **DevOps & Cloud (Leveraging your AWS skills):** Docker, AWS (EC2, S3, RDS, ECS, Lambda), GitHub Actions.\n* **AI/ML Integration (Leveraging PyTorch):** Torchserve, ONNX, Hugging Face APIs.\n\n---\n\n## \ud83d\udcda Courses\n\n### Free Resources\n* **Frontend & React:** [Full Stack Open (University of Helsinki)](https://fullstackopen.com/en/) \u2013 *The gold standard for modern web dev.*\n* **TypeScript:** [TypeScript Beginners Guide (Frontend Masters / YouTube)](https://www.youtube.com/)\n* **Databases & SQL:** [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)\n\n### Paid Resources\n* **Advanced React & Next.js:** [Maximilian Schwarzm\u00fcller on Udemy](https://www.udemy.com/) (*React - The Complete Guide*)\n* **System Design & Architecture:** [ByteByteGo (Alex Xu)](https://bytebytego.com/) \u2013 *Essential for senior-leaning developers.*\n* **AWS Certified Developer Associate:** [Stephane Maarek on Udemy](https://www.udemy.com/) \u2013 *Get certified to validate your cloud skills.*\n\n---\n\n## \ud83d\udee0\ufe0f Projects\n\nBuild these **three production-grade projects** for your portfolio. Do not build simple to-do lists; solve real-world problems.\n\n1. **Project 1 (Month 1): DevFlow \u2013 A Developer Q&A Platform (Clone of StackOverflow lite)**\n   * **Tech:** React, TypeScript, Tailwind, Node.js, PostgreSQL.\n   * **Features:** User authentication, voting system, rich-text markdown posting, tags filtering, and real-time notifications.\n2. **Project 2 (Month 2): Cloud-Native Analytics Dashboard**\n   * **Tech:** React, Python (FastAPI), MongoDB, Redis (for caching).\n   * **Features:** Custom data visualization, background worker queues for data processing, and secure JWT authentication.\n3. **Project 3 (Month 3 - The Capstone): AI-Powered Image/Text SaaS Platform**\n   * **Tech:** Next.js, FastAPI, **PyTorch** (hosting a lightweight model like CLIP or a fine-tuned sentiment analyzer), AWS (S3 for image storage, Dockerized ECS for model serving).\n   * **Features:** Users upload files, the Python/PyTorch backend processes them asynchronously, and results stream back to the React frontend via WebSockets.\n\n---\n\n## \ud83e\udde0 Interview Preparation\n\nTo land a Full-Stack role with your unique background, focus on:\n\n* **Data Structures & Algorithms (DSA):** Practice 100\u2013150 LeetCode problems (focus on Arrays, Strings, Hash Maps, Two Pointers, and Trees). Use JavaScript or Python.\n* **System Design:** Be prepared to design scalable systems (e.g., *\"Design an image upload service like Instagram\"* or *\"Design a real-time chat application\"*). Lean heavily on your AWS knowledge here!\n* **Frontend System Design:** Understand how to structure large React applications, manage global state, handle caching, and optimize web performance (Core Web Vitals).\n* **Behavioral Interviews:** Prepare stories using the **STAR method** (Situation, Task, Action, Result) highlighting times you debugged complex issues, shipped features under pressure, or worked in teams.\n\n---\n\n## \ud83c\udf10 Portfolio & Professional Brand Tips\n\n### GitHub\n* **Pinnable Repositories:** Feature your 3 capstone projects. \n* **Readmes Matter:** Treat every repository like a product. Include:\n  * High-level architecture diagrams.\n  * Clear setup instructions (`docker-up`).\n  * Live demo links and screenshots/GIFs of the UI.\n* **Clean Code:** Use ESLint, Prettier, and Husky pre-commit hooks to show you write enterprise-grade code.\n\n### LinkedIn\n* **Headline Formula:** `Full-Stack Software Engineer | React, Node.js, Python | AWS Certified | Building Scalable Web & AI Applications`\n* **About Section:** Tell a compelling story. Mention how your background in Cloud (AWS) and AI (PyTorch) gives you a unique superpower as a Full-Stack Engineer\u2014you don't just build the UI/UX; you build intelligent, cloud-native systems.\n* **Networking:** Post weekly updates about your 3-month journey. Share what you learned, architectural challenges you overcame, and snippets of your projects. **Build in public!** \n\n---\n*You have the building blocks. Stick to this 3-month schedule with rigorous daily execution, and you will be more than ready to crush senior-level interviews. Let's get to work! \ud83d\ude80*"
+  }
+}
