@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 CareerPilot AI
 
 An AI-powered career guidance platform that generates personalized learning roadmaps, project recommendations, learning timelines, and downloadable PDF reports to help users achieve their dream careers.
