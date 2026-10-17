@@ -37,7 +37,7 @@ An AI-powered career guidance platform that generates personalized learning road
 Clone the repository:
 
 ```bash
-git clone https://github.com/khutejakhan/CareerPilot-AI.git
+git clone https://github.com/hanzala-bagwan/Career-Pilot.git
 cd CareerPilot-AI
 ```
 
