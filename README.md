@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CareerPilot AI
 
 An AI-powered career guidance platform that generates personalized learning roadmaps, project recommendations, learning timelines, and downloadable PDF reports to help users achieve their dream careers.
@@ -193,3 +194,6 @@ It helps others discover the project and motivates future improvements.
 ## 📜 License
 
 This project is licensed under the MIT License.
+=======
+# Career-Pilot
+>>>>>>> 8c8ee06a9b4aabc7de7d376df6f087a40f2a36f4
